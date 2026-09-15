@@ -1,4 +1,3 @@
-## Hi there, I'm Maria Saleem 👋
 <h1 align="center">Hi there, I'm Maria Saleem 👋</h1>
 
 <p align="center">
