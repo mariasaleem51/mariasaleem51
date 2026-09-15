@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Maria Saleem 👋</h1>
 
 <p align="center">
-  <b>BSCS UnderGraduate | Web & Mobile Developer | AI Workflows Specialist</b>
+  <b>BSCS UnderGraduate | Web & Mobile Developer | AI</b>
 </p>
 
 <p align="center">
