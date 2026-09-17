@@ -48,7 +48,5 @@ I'm a Computer Science student at the Institute of Space Technology (IST), Islam
 
 * **Web Development:** Responsive Web Applications, Frontend Integration (React, HTML5, CSS3), UI/UX Implementation & REST API Integration
 * **App Development:** Native Android App UI Design & Feature Implementation (Android Studio)
-* **Developer Workflows & Automation:** Agentic AI Workflows (Claude Code / MCP), Automated Scripting, VS Code Setup
-* **Outreach & Technical Operations:** Bidding Automation, Professional Client Outreach, Technical Communication
-
+  
 ✨Thanks for visiting my profile!
